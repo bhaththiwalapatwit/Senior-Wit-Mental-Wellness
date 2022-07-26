@@ -12,14 +12,17 @@ import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
 import edu.wit.mobileapp.wellness_app.databinding.ActivityMainBinding;
+import io.kommunicate.Kommunicate;
 
 public class MainActivity extends AppCompatActivity {
 
     private ActivityMainBinding binding;
+    //private static final String APP_ID = "fa7e088ca39634cb807890ee63bf701f";
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
         binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
@@ -34,6 +37,9 @@ public class MainActivity extends AppCompatActivity {
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_activity_main);
         NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);
         NavigationUI.setupWithNavController(binding.navView, navController);
+
+        //Kommunicate.init(this, APP_ID);
+
     }
 
 

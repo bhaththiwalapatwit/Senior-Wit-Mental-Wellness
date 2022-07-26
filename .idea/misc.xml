@@ -3,10 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/bhaththiwalap/AndroidStudioProjects/Senior_Proj_Wellness_App/app/src/main/res/layout/activity_login.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/bhaththiwalap/AndroidStudioProjects/Senior_Proj_Wellness_App/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/bhaththiwalap/AndroidStudioProjects/Senior_Proj_Wellness_App/app/src/main/res/layout/fragment_chatbot.xml" value="0.365625" />
+        <entry key="..\:/Users/bhaththiwalap/AndroidStudioProjects/Senior_Proj_Wellness_App/app/src/main/res/layout/fragment_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/bhaththiwalap/AndroidStudioProjects/Senior_Proj_Wellness_App/app/src/main/res/layout/guided_meditation_fragment.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/bhaththiwalap/AndroidStudioProjects/Senior_Proj_Wellness_App/app/src/main/res/layout/sounds_fragment.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/bhaththiwalap/AndroidStudioProjects/Senior_Proj_Wellness_App/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/bhaththiwalap/AndroidStudioProjects/Wellness_App/app/src/main/res/layout/activity_login.xml" value="0.21" />
         <entry key="..\:/Users/bhaththiwalap/AndroidStudioProjects/Wellness_App/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/bhaththiwalap/AndroidStudioProjects/Wellness_App/app/src/main/res/layout/activity_register.xml" value="0.21" />
         <entry key="..\:/Users/bhaththiwalap/AndroidStudioProjects/Wellness_App/app/src/main/res/layout/activity_time_schedule.xml" value="0.125" />
+        <entry key="..\:/Users/bhaththiwalap/AndroidStudioProjects/Wellness_App/app/src/main/res/layout/breathing_fragment.xml" value="0.11296859169199595" />
         <entry key="..\:/Users/bhaththiwalap/AndroidStudioProjects/Wellness_App/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
         <entry key="..\:/Users/bhaththiwalap/AndroidStudioProjects/Wellness_App/app/src/main/res/layout/fragment_profile.xml" value="0.23822463768115942" />
         <entry key="..\:/Users/bhaththiwalap/AndroidStudioProjects/Wellness_App/app/src/main/res/menu/bottom_nav_menu.xml" value="0.22" />
