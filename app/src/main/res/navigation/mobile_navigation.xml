@@ -52,4 +52,8 @@
         android:name="edu.wit.mobileapp.wellness_app.ui.profile.ProfileFragment"
         android:label="@string/title_profile"
         tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/chatbotFragment"
+        android:name="edu.wit.mobileapp.wellness_app.ui.chatbot.ChatbotFragment"
+        android:label="Chatbot" />
 </navigation>

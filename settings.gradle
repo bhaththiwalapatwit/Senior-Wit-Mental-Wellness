@@ -4,6 +4,7 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
         //jcenter() // Warning: this repository is going to shut down soon
+        maven { url 'https://kommunicate.jfrog.io/artifactory/kommunicate-android-sdk' }
     }
 }
 rootProject.name = "Wellness_App"
