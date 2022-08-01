@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Wellness App</string>
-    <string name="title_home">Meditation</string>
+    <string name="title_home">Mindfulness</string>
     <string name="title_dashboard">Counselor Bio</string>
     <string name="title_notifications">Schedule</string>
     <string name="title_profile">Profile</string>
